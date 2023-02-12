@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tess-reader/static/css/main.0ca5adcc.css",
+    "main.js": "/tess-reader/static/js/main.2a22f405.js",
+    "static/js/787.95a37167.chunk.js": "/tess-reader/static/js/787.95a37167.chunk.js",
+    "index.html": "/tess-reader/index.html",
+    "main.0ca5adcc.css.map": "/tess-reader/static/css/main.0ca5adcc.css.map",
+    "main.2a22f405.js.map": "/tess-reader/static/js/main.2a22f405.js.map",
+    "787.95a37167.chunk.js.map": "/tess-reader/static/js/787.95a37167.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca5adcc.css",
+    "static/js/main.2a22f405.js"
+  ]
+}
